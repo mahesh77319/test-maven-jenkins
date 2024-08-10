@@ -1,4 +1,4 @@
-
+*/
 pipeline{
 agent any
 stages 
@@ -42,4 +42,4 @@ ansiblePlaybook credentialsId: 'edf29c56-6626-4ce1-a40e-4d6a98e6afea', disableHo
 }
 }
 }
-
+/*
